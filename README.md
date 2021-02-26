@@ -1,7 +1,7 @@
 # Deep learning project 1
 
 The experiments can be run from the CNN.py file. 
-Requirements: Tensorflow 2.2.0
+Requirements: Tensorflow 2.4.0
 
 The results can be found in the "results" folder. In order to preview the confusion matrix, copy the matrix from the desired .txt file and paste it in the "confmat" variable from the visualize_confusion_matrix.m file in the "results" folder.
 
